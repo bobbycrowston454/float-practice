@@ -3,13 +3,14 @@
   border: solid;
   border-width: thin;
   padding-right: 35px;
+  margin-right: 100px;
 
 }
 h2.dates{
   text-align: center;
 }
 .about{
-  float: left;
+  margin-left: 20px;
   border: solid;
   border-width: thin;
   padding-right: 15px;
@@ -37,6 +38,7 @@ h1, h2{
 
 p{
   padding-left: 15px;
+  margin-left: 20px;
 }
 body{
   font-family: sans-serif;
