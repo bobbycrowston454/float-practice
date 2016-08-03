@@ -10,6 +10,12 @@ h2.dates{
 }
 .about{
   float: left;
+  border: solid;
+  border-width: thin;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 10px;
+
 }
 
 .pics{
@@ -27,4 +33,13 @@ h1, h2{
   text-align: center;
   font-family: fantasy;
   text-decoration: underline;
+}
+
+p{
+  padding-left: 15px;
+}
+body{
+  font-family: sans-serif;
+  font-size: 20px;
+  background-image: url("http://www.intrawallpaper.com/static/images/light_textured_backround_GnbGFCY.jpg");
 }
