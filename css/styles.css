@@ -7,22 +7,35 @@ body{
 .column{
   width: 300px;
   float: left;
+  background-color: orange;
 }
 img{
   width: 500px;
 
 }
 .before{
-padding-left:75px;
-
+margin-left:75px;
+border: solid;
+border-width: thin;
+padding-right: 200px;
 
 }
+
 .during{
-padding-left: 300px;
+margin-left: 100px;
+border: solid;
+border-width: thin;
+padding-right: 200px;
+padding-bottom: 67px;
 
 }
 .after{
-  padding-left: 300px;
+  margin-left: 100px;
+  border: solid;
+  border-width: thin;
+  padding-right: 200px;
+  padding-bottom: 85px;
+  
 }
 .pad{
   padding-bottom: 43px;
@@ -37,4 +50,5 @@ h2{
 p{
   color:   #990000;
   text-shadow: 1px -2px black;
+  text-indent: 70px;
 }
