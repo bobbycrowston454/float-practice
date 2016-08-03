@@ -1,0 +1,40 @@
+body{
+  background-image: url("http://yoyowallpapers.com/wp-content/uploads/2015/12/orange-chairs-interior-design-free-desktop-backgrounds-for-windows-7-.jpg");
+  text-align: center;
+  font-family: monospace;
+  font-size: 20px;
+}
+.column{
+  width: 300px;
+  float: left;
+}
+img{
+  width: 500px;
+
+}
+.before{
+padding-left:75px;
+
+
+}
+.during{
+padding-left: 300px;
+
+}
+.after{
+  padding-left: 300px;
+}
+.pad{
+  padding-bottom: 43px;
+}
+h1{
+  text-decoration: overline;
+  font-size: 60px;
+}
+h2{
+  font-size: 40px;
+}
+p{
+  color:   #990000;
+  text-shadow: 1px -2px black;
+}
